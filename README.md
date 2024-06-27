@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![nakataki's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakataki17)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **nakataki17/nakataki17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
