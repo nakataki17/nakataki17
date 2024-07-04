@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![nakataki's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakataki17)](https://github.com/anuraghazra/github-readme-stats)
+[![nakataki's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakataki17&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
