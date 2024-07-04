@@ -1,6 +1,5 @@
 ## Hi there 👋 
-[![Top Langs](https://github-readme-stats-beta-jet-19.vercel.app/api/top-langs/?username=nakataki17&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats-beta-jet-19.vercel.app/api/top-langs/?username=nakataki17&count_private=true)
 ![nakataki's GitHub stats](https://github-readme-stats-beta-jet-19.vercel.app/api?username=nakataki17&count_private=true&show_icons=true)
 
 
