@@ -1,8 +1,8 @@
 ## Hi there 👋 
 
 ### [![language](https://skillicons.dev/icons?i=ts,js,perl,go,php,c,html,css)](https://skillicons.dev)
-### [![Frontend](https://skillicons.dev/icons?i=next,react,tailwind,vitest,threejs)](https://skillicons.dev)
-### [![Backend](https://skillicons.dev/icons?i=prisma,fastapi,laravel,nginx)](https://skillicons.dev)
+### [![Frontend](https://skillicons.dev/icons?i=react,tailwind,vitest,threejs)](https://skillicons.dev)
+### [![Backend](https://skillicons.dev/icons?i=next,prisma,fastapi,laravel,nginx)](https://skillicons.dev)
 ### [![Infra](https://skillicons.dev/icons?i=cloudflare,firebase,supabase,netlify,githubactions,aws,mysql)](https://skillicons.dev)
 ### [![Ops](https://skillicons.dev/icons?i=sentry,githubactions)](https://skillicons.dev)
 
